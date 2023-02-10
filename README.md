@@ -1,16 +1,35 @@
-# wordify
+# Wordify - Word Pair Generator
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple Flutter application that generates random word pairs that can help you to decide on some names randomly.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For cloning this application go to the desired folder for cloning the project then run:
+```console
+git clone https://github.com/sumeetdpanda/wordify.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+After this go inside the installation folder using:
+```console 
+cd wordify
+```
+
+After this let's get all the dependecies using the console. Just run:
+```console
+flutter pub get
+```
+
+After this run flutter run from the console to run the application.
+```console
+flutter run
+```
+
+And that's it you have your application running.
+
+The source code is freely available to use and contribute.
+
+Thanks!!!
