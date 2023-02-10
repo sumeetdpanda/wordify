@@ -1,6 +1,6 @@
 # Wordify - Word Pair Generator
 
-A new Flutter project.
+Generate Random Word Pairs using mobile device itself.
 
 ## Getting Started
 
